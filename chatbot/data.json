@@ -1,0 +1,32 @@
+{
+    "questions": {
+        "0": "what can i get from your website",
+        "1": "what do you sell",
+        "2": "what is open-source",
+        "3": "why i is free",
+        "4": "what can i do to get this warehouse management system for free",
+        "5": "how can i get wms for free",
+        "6": "Hi",
+        "7": "Hello",
+        "8": "good morning",
+        "9": "good afternoon",
+        "10": "good bye",
+        "11": "bye"
+    },
+    "answers": {
+        "0": "You can get some tools, for managing your company.",
+        "1": "Open-source is source code that is made freely available for possible modification and redistribution.",
+        "2": "It is open source, so it is free for anyone.",
+        "3": "You can download all our projects on our website and on github.",
+        "4": "Hi, how can I help you",
+        "5": "Bye. Have a nice day! :D"
+    },
+    "relations": {
+        "0": [0, 1],
+        "1": [2],
+        "2": [3],
+        "3": [4, 5],
+        "4": [6, 7, 8, 9],
+        "5": [10, 11]
+    }
+}
